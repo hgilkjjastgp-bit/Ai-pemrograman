@@ -1,0 +1,21 @@
+{
+  "name": "discord-ai-hosting-plattform",
+  "version": "1.0.0",
+  "descriptio": "منصة بوت احترافي لبرمجة و استضافة بوتات ديسكورد بالذكاء اصطناعي وايب",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "archiver": "^6.0.2",
+    "discord.js": "^14.14.1",
+    "express": "^.19.2",
+    "mongoose": "^8.2.1", 
+    " adm-zip": "^0.5.10", 
+  }, 
+  "author": " AI collaborator", 
+  "license": "ISC"
+}
+
+    
+  
